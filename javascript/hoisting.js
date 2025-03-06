@@ -1,4 +1,5 @@
+console.log(a);
 var a;
-let b;
-console.log(x);
+
 console.log(b);
+let b;

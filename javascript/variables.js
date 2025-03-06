@@ -1,13 +1,19 @@
-var a= 10;
-// console.log("value of a is:",a);
-var a =20;
-console.log("value of a is:",a);
-let b=75;
-console.log("value of b is:",b);
- b="anjali";
-console.log("value of b is:",b);
-const c= 55;
-console.log("value of c is:",c);
-const c=78;
-console.log("value of c is:",c);
+var accountId= 145678;
+
+let accountEmail="anjali@gmail.com";
+accountCity="Jaipur"
+const accountPassword="127899";
+accountId=232134;
+accountEmail="hasrsh@gmail.com";
+// accountPassword="213456";
+accountCity="pathankot;"
+
+console.table([accountId,accountEmail,accountCity,accountPassword]);
+
+//prefer not use the var beacuse of issue in block and functioncal scope
+
+ 
+
+
+
 
