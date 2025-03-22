@@ -10,7 +10,7 @@ accountCity="pathankot;"
 
 console.table([accountId,accountEmail,accountCity,accountPassword]);
 
-//prefer not use the var beacuse of issue in block and functioncal scope
+//prefer not use the var beacuse of issue in block and function
 
  
 
